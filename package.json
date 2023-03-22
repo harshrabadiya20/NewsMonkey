@@ -1,6 +1,6 @@
 {
   "homepage": "https://harshrabadiya20.github.io/NewsMonkey",
-  "name": "newsapp",
+  "name": "NewsMonkey",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
